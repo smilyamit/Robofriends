@@ -1,3 +1,8 @@
 #1 to print html templates in sublime
 just type:  HTML + tab
-#in pycharm it will autmatically come when u save file in .html format
+#2in pycharm it will autmatically come when u save file in .html format
+
+#3 in js why we use 3 equal sign ===
+= to assign value
+== to check only one condition (either value is same or not)
+=== to check 2 condition (first it will check the value and second it will check type of data eg either it is string or not)
